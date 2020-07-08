@@ -8,7 +8,7 @@ Let's take a moment to understand how we are going to design a model for the pro
 	1. Loading and pre-processing Data
 		a. Loading
 		b. EDA
-		c. Preprocessing
+		c. Dataset Preprocessing
 	2. Defining Model architecture
 		a. Library used
     		b. Transfer learning
